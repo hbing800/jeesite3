@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/db/cms" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/db/init-db.bat" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/db/sys" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/cache" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/jeesite.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/log4j.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/spring-context-shiro.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/spring-context.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ckfinder.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/decorators.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tlds" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/static" charset="GBK" />
+  </component>
+</project>
